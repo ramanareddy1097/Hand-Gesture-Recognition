@@ -34,4 +34,10 @@ Clone the repository and install the required dependencies using the following c
 ```bash
 git clone https://github.com/<your-username>/hand-gesture-recognition.git
 cd hand-gesture-recognition
+opencv-python
+mediapipe
+once you copy the code 
+run it
+python hand_gesture_recognition.py
+
 
